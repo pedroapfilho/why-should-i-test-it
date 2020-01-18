@@ -7279,10 +7279,10 @@ mdurl@^1.0.1:
   resolved "https://registry.yarnpkg.com/mdurl/-/mdurl-1.0.1.tgz#fe85b2ec75a59037f2adfec100fd6c601761152e"
   integrity sha1-/oWy7HWlkDfyrf7BAP1sYBdhFS4=
 
-mdx-deck-theme-awesomeness@^1.0.2:
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/mdx-deck-theme-awesomeness/-/mdx-deck-theme-awesomeness-1.0.2.tgz#7ca9816393d46b1cf6b8bddf49d18cd9b7908406"
-  integrity sha512-8JIAhBLAJkcRsDZloBf0Uv/9ORxIwy7WtbcFEjkpGw0tXr4Wu6222aC/PZYfL9mrLi/g5qVGqfdMA6fAt8ppfQ==
+mdx-deck-theme-awesomeness@^1.0.3:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/mdx-deck-theme-awesomeness/-/mdx-deck-theme-awesomeness-1.0.3.tgz#3ac39d2f940965c962046a8750f77c2db6a3cc96"
+  integrity sha512-LhaCro9evmRzeuUV9ohYYbbmPW99twi3lwjM2QWv3QreMWh7rVggr3WlDLEKP3NCwiCYOhWLo3cFR46dEGeBkA==
 
 mdx-deck@^3.0.13:
   version "3.0.13"
