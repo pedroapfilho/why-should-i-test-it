@@ -1,0 +1,16 @@
+{
+  "name": "why-should-i-test-it",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/pedroapfilho/why-should-i-test-it.git",
+  "author": "Pedro Filho <pedro@filho.me>",
+  "license": "MIT",
+  "scripts": {
+    "start": "mdx-deck deck.mdx",
+    "build": "mdx-deck build deck.mdx"
+  },
+  "devDependencies": {
+    "mdx-deck": "^3.0.13",
+    "mdx-deck-theme-awesomeness": "^1.0.2"
+  }
+}

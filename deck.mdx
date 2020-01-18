@@ -1,0 +1,105 @@
+import { aspect, highlight } from "mdx-deck/themes";
+
+import { Image } from "mdx-deck";
+
+import awesomeTheme from "mdx-deck-theme-awesomeness";
+
+export const themes = [awesomeTheme, highlight, aspect];
+
+# Why should I test it?
+
+---
+
+# Who am I?
+
+---
+
+# Pedro Filho
+
+## Software Engineer at GameAnalytics
+
+---
+
+# Everyone was a Junior once...
+
+---
+
+# Why should I test it?
+
+---
+
+# Because I told you to.
+
+---
+
+# Not anymore!
+
+---
+
+# There are 4 main reasons to create tests
+
+---
+
+# 1- Someone else will touch that code
+
+---
+
+# 2- You may have to add a functionality
+
+---
+
+# 3- You'll be able to refactor with confidence
+
+---
+
+# 4- You don't want to receive calls at 3AM
+
+---
+
+# Imagine a counter
+
+`- 0 +`
+
+---
+
+# What should you test?
+
+---
+
+# Why?
+
+---
+
+```js
+describe("Counter", () => {
+    it("Should start with 0", () => {
+        ...
+    })
+    it("Should increase value when '+' is clicked", () => {
+        ...
+    })
+    it("Should decrease value when '-' is clicked", () => {
+        ...
+    })
+})
+```
+
+---
+
+# Found an edge case? Test it!
+
+---
+
+# Component -> Unit test
+
+---
+
+# Function -> Unit test
+
+---
+
+# Page -> E2E test
+
+---
+
+# That's all folks
