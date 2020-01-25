@@ -11,6 +11,6 @@
   },
   "devDependencies": {
     "mdx-deck": "^3.0.13",
-    "mdx-deck-theme-awesomeness": "^1.0.7"
+    "mdx-deck-theme-awesomeness": "^1.0.8"
   }
 }

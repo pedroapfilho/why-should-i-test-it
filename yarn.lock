@@ -7391,10 +7391,10 @@ mdurl@^1.0.1:
   resolved "https://registry.yarnpkg.com/mdurl/-/mdurl-1.0.1.tgz#fe85b2ec75a59037f2adfec100fd6c601761152e"
   integrity sha1-/oWy7HWlkDfyrf7BAP1sYBdhFS4=
 
-mdx-deck-theme-awesomeness@^1.0.7:
-  version "1.0.7"
-  resolved "https://registry.yarnpkg.com/mdx-deck-theme-awesomeness/-/mdx-deck-theme-awesomeness-1.0.7.tgz#f9807686bc0dc84ddbf99da7962db2b4d0da5cd0"
-  integrity sha512-qe++YNQy3OzeFcbcDDyKEyFxt/4mfR52u39EERUDGvFOUSqoWAiNGUrBhzpGhLjwkoCAIlhs571tPkKSVkWRVA==
+mdx-deck-theme-awesomeness@^1.0.8:
+  version "1.0.8"
+  resolved "https://registry.yarnpkg.com/mdx-deck-theme-awesomeness/-/mdx-deck-theme-awesomeness-1.0.8.tgz#567742816cf3b03aaef96dc37cf11eabc6f3e1f8"
+  integrity sha512-7WIl/OTx2AgHGZVkbXj+1FNcbytmHOeoyFKo11/vFCjKnaCf9NWjLg3GV6jCNE7Su4eBEqk8NcTKLXphRxw2aQ==
   dependencies:
     styled-components "^5.0.0"
 
