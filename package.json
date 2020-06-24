@@ -10,7 +10,7 @@
     "build": "mdx-deck build deck.mdx"
   },
   "devDependencies": {
-    "mdx-deck": "^3.0.13",
+    "mdx-deck": "^4.1.1",
     "mdx-deck-theme-awesomeness": "^1.1.3"
   }
 }

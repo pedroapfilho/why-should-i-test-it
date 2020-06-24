@@ -1,11 +1,18 @@
-import { highlight } from "mdx-deck/themes";
+import { awesomeTheme, Pacman, Profile } from "mdx-deck-theme-awesomeness";
 
-import awesomeTheme from "mdx-deck-theme-awesomeness";
+export const theme = awesomeTheme;
 
-export const themes = [
-  awesomeTheme({ name: "Pedro Filho", twitter: "pedrofilhome" }),
-  highlight
-];
+<Header>
+
+<Profile name="Pedro Filho" twitter="pedrofilhome" />
+
+</Header>
+
+<Footer>
+
+<Pacman />
+
+</Footer>
 
 # Why should I test it?
 
